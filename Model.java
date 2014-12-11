@@ -8,7 +8,7 @@ import javax.swing.text.html.HTMLDocument.HTMLReader.SpecialAction;
 public class Model {
 
 	private final static String USER = "root";
-	private final static String PASS = "3452";
+	private final static String PASS = "root";
 	private final static String URL = "jdbc:mysql://localhost/stud";
 	private final String TABLE1 = "students";
 	private final String TABLE2 = "groups";
